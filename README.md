@@ -6,7 +6,7 @@ Developed Only With MUI THEMING CONCEPT + REACTJS (No Use CSS)
 
 
      
-      4 - Method to Run Project in your PC
+      // Method to Run Project in your PC
        
        
       git clone https://github.com/sjyogi73/MUI-ReactJS.git
@@ -28,7 +28,7 @@ Developed Only With MUI THEMING CONCEPT + REACTJS (No Use CSS)
       
       
 
-  #For more Referance See a Below more Images...
+ # For more Referance See a Below more Images...
   
      Login Image With MUI Theming Concept
 
@@ -52,7 +52,7 @@ Developed Only With MUI THEMING CONCEPT + REACTJS (No Use CSS)
      ![pic1](https://user-images.githubusercontent.com/82278181/180422543-71e66852-b711-466c-92fc-0c3cfd4787b8.png)
 
 
-#🙏^ Follow my Social Media & Subscribe Our Youtube Channel🙏
+# 🙏^ Follow my Social Media & Subscribe Our Youtube Channel ^🙏
 
 
         Social Media :
@@ -60,6 +60,6 @@ Developed Only With MUI THEMING CONCEPT + REACTJS (No Use CSS)
         Linked in : www.linkedin.com/in/yogeshwaran-s-37939021a
         Youtube   : https://www.youtube.com/channel/UCP23FSqQPw2bAFsNrgCYA5A
 
-     😇                          😇
-      Thankyou For Visiting Our Page
+# 😇                          😇
+# Thankyou For Visiting Our Page
 
