@@ -20,7 +20,7 @@ Developed Only With MUI THEMING CONCEPT + REACTJS (No Use CSS)
       Check http://localhost:3000/
       
       
- # Used dependencys For This Project
+ # Used dependencies For This Project
       - React js
       - Material UI
       - React Router
