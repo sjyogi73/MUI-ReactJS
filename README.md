@@ -6,7 +6,7 @@
 
 
      
-      // Method to Run Project in your PC
+     Method to Run Project in your PC
        
        
       git clone https://github.com/sjyogi73/MUI-ReactJS.git
@@ -52,7 +52,7 @@
 ![pic1](https://user-images.githubusercontent.com/82278181/180422543-71e66852-b711-466c-92fc-0c3cfd4787b8.png)
 
 
-# 🙏^ Follow my Social Media & Subscribe Our Youtube Channel ^🙏
+🙏 Follow my Social Media & Subscribe Our Youtube Channel 
 
 
         Social Media :
@@ -60,6 +60,6 @@
         Linked in : www.linkedin.com/in/yogeshwaran-s-37939021a
         Youtube   : https://www.youtube.com/channel/UCP23FSqQPw2bAFsNrgCYA5A
 
-# 😇                          😇
-# Thankyou For Visiting Our Page
+                          
+😇Thankyou For Visiting Our Page😇
 
