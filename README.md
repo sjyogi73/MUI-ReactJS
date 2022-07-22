@@ -32,24 +32,24 @@
   
      Login Image With MUI Theming Concept
 
-     ![pic4](https://user-images.githubusercontent.com/82278181/180422058-c60cc7a8-2550-470a-a1c6-ee85fc1bd3f5.png)
+![pic4](https://user-images.githubusercontent.com/82278181/180422058-c60cc7a8-2550-470a-a1c6-ee85fc1bd3f5.png)
      
      -
 
      Registration Image - MUI Theming Concept
 
-     ![pic3](https://user-images.githubusercontent.com/82278181/180422253-eb6be022-8df6-4319-b248-78a1b388673a.png)
+![pic3](https://user-images.githubusercontent.com/82278181/180422253-eb6be022-8df6-4319-b248-78a1b388673a.png)
      
      -
 
 
      Card Grid With MUI Theming Concept
-     ![pic2](https://user-images.githubusercontent.com/82278181/180422430-e9583bc6-1294-424b-8e95-47498c40fba2.png)
+![pic2](https://user-images.githubusercontent.com/82278181/180422430-e9583bc6-1294-424b-8e95-47498c40fba2.png)
      
      -
 
      Basic Home Page
-     ![pic1](https://user-images.githubusercontent.com/82278181/180422543-71e66852-b711-466c-92fc-0c3cfd4787b8.png)
+![pic1](https://user-images.githubusercontent.com/82278181/180422543-71e66852-b711-466c-92fc-0c3cfd4787b8.png)
 
 
 # 🙏^ Follow my Social Media & Subscribe Our Youtube Channel ^🙏
